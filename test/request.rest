@@ -1,0 +1,5 @@
+
+GET https://brasilapi.com.br/api/cep/v1/24230126
+
+###
+GET http://viacep.com.br/ws/24230126/json/
